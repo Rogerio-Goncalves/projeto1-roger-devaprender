@@ -1,1 +1,2 @@
-Olá, meu nome é Roger
+Olá, meu nome é Roger.
+Olá eu sou uma nova linha.
